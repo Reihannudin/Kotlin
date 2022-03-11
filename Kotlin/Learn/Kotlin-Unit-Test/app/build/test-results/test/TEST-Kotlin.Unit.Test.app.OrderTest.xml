@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kotlin.Unit.Test.app.OrderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-10T15:32:26" hostname="DESKTOP-IKMJTG9" time="0.008">
+  <properties/>
+  <testcase name="testC()" classname="Kotlin.Unit.Test.app.OrderTest" time="0.005"/>
+  <testcase name="testA()" classname="Kotlin.Unit.Test.app.OrderTest" time="0.001"/>
+  <testcase name="testB()" classname="Kotlin.Unit.Test.app.OrderTest" time="0.001"/>
+  <system-out><![CDATA[beforeAll
+testC
+counter C 1
+counter HashcodeC : 1932332324
+testA
+counter A: 2
+counter Hashcode A: 1932332324
+testB
+counter B: 3
+counter Hashcode B: 1932332324
+afterAll
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

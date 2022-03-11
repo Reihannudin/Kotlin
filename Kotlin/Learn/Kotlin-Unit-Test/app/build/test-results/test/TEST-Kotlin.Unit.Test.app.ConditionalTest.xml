@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kotlin.Unit.Test.app.ConditionalTest" tests="13" skipped="4" failures="0" errors="0" timestamp="2022-03-10T15:32:25" hostname="DESKTOP-IKMJTG9" time="0.294">
+  <properties/>
+  <testcase name="disabledOnlyInJava16()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="enabledOnDev()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="enabledOnlyInWindows()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.001"/>
+  <testcase name="disabledInLinux()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.0"/>
+  <testcase name="disabledOnDev()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.001"/>
+  <testcase name="enabledInWindowsAndMac()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.002"/>
+  <testcase name="enabledOnlyInJava16()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.044"/>
+  <testcase name="showSystemProperties()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.099"/>
+  <testcase name="disabledInAllMacAndLinux()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.002"/>
+  <testcase name="disabledOnOracle()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="enabledOnOracle()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.0"/>
+  <testcase name="disabledForJreRange()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="enabledForJreRange()" classname="Kotlin.Unit.Test.app.ConditionalTest" time="0.002"/>
+  <system-out><![CDATA[java.specification.version = 16
+sun.cpu.isalist = amd64
+sun.jnu.encoding = Cp1252
+org.gradle.test.worker = 2
+java.class.path = C:\\Users\\reedb\\.gradle\\caches\\7.4\\workerMain\\gradle-worker.jar;D:\\Work\\Programming\\Kotlin\\Learn\\Kotlin-Unit-Test\\app\\build\\classes\\kotlin\\test;D:\\Work\\Programming\\Kotlin\\Learn\\Kotlin-Unit-Test\\app\\build\\classes\\kotlin\\main;D:\\Work\\Programming\\Kotlin\\Learn\\Kotlin-Unit-Test\\utilities\\build\\libs\\utilities.jar;D:\\Work\\Programming\\Kotlin\\Learn\\Kotlin-Unit-Test\\list\\build\\libs\\list.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-jdk8\\1.5.31\\ff5d99aecd328872494e8921b72bf6e3af97af3e\\kotlin-stdlib-jdk8-1.5.31.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-text\\1.9\\ba6ac8c2807490944a0a27f6f8e68fb5ed2e80e2\\commons-text-1.9.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.jupiter\\junit-jupiter-params\\5.8.2\\ddeafe92fc263f895bfb73ffeca7fd56e23c2cce\\junit-jupiter-params-5.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.jupiter\\junit-jupiter-engine\\5.8.2\\c598b4328d2f397194d11df3b1648d68d7d990e3\\junit-jupiter-engine-5.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.jupiter\\junit-jupiter-api\\5.8.2\\4c21029217adf07e4c0d0c5e192b6bf610c94bdc\\junit-jupiter-api-5.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.platform\\junit-platform-engine\\1.8.2\\b737de09f19864bd136805c84df7999a142fec29\\junit-platform-engine-1.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.platform\\junit-platform-commons\\1.8.2\\32c8b8617c1342376fd5af2053da6410d8866861\\junit-platform-commons-1.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.junit.jupiter\\junit-jupiter\\5.8.2\\5a817b1e63f1217e5c586090c45e681281f097ad\\junit-jupiter-5.8.2.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-jdk7\\1.5.31\\77e0f2568912e45d26c31fd417a332458508acdf\\kotlin-stdlib-jdk7-1.5.31.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib\\1.5.31\\6628d61d0f5603568e72d2d5915d2c034b4f1c55\\kotlin-stdlib-1.5.31.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.5.31\\43331609c7de811fed085e0dfd150874b157c32\\kotlin-stdlib-common-1.5.31.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.11\\68e9a6adf7cf8eb7e9d31bbc554c7c75eeaac568\\commons-lang3-3.11.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\annotations\\13.0\\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\\annotations-13.0.jar;C:\\Users\\reedb\\.gradle\\caches\\modules-2\\files-2.1\\org.opentest4j\\opentest4j\\1.2.0\\28c11eb91f9b6d8e200631d46e20a7f407f2a046\\opentest4j-1.2.0.jar
+java.vm.vendor = Oracle Corporation
+sun.arch.data.model = 64
+user.variant = 
+java.vendor.url = https://java.oracle.com/
+user.timezone = Asia/Bangkok
+java.vm.specification.version = 16
+os.name = Windows 10
+user.country = US
+sun.java.launcher = SUN_STANDARD
+sun.boot.library.path = D:\Programs\ProgramFile\Kotlin\jdk-16.0.2\bin
+sun.java.command = worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 2'
+jdk.debug = release
+sun.cpu.endian = little
+user.home = C:\Users\reedb
+user.language = en
+java.specification.vendor = Oracle Corporation
+org.gradle.native = false
+java.version.date = 2021-07-20
+java.home = D:\Programs\ProgramFile\Kotlin\jdk-16.0.2
+file.separator = \
+java.vm.compressedOopsMode = 32-bit
+line.separator = 
+
+java.vm.specification.vendor = Oracle Corporation
+java.specification.name = Java Platform API Specification
+user.script = 
+sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+java.runtime.version = 16.0.2+7-67
+user.name = reedb
+path.separator = ;
+os.version = 10.0
+java.runtime.name = Java(TM) SE Runtime Environment
+file.encoding = windows-1252
+java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+java.vendor.url.bug = https://bugreport.java.com/bugreport/
+java.io.tmpdir = C:\Users\reedb\AppData\Local\Temp\
+java.version = 16.0.2
+user.dir = D:\Work\Programming\Kotlin\Learn\Kotlin-Unit-Test\app
+os.arch = amd64
+java.vm.specification.name = Java Virtual Machine Specification
+org.gradle.internal.worker.tmpdir = D:\Work\Programming\Kotlin\Learn\Kotlin-Unit-Test\app\build\tmp\test\work
+sun.os.patch.level = 
+java.library.path = D:\Programs\ProgramFile\Kotlin\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Programs\ProgramFile\Python\Scripts\;D:\Programs\ProgramFile\Python\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Programs\Aplikasi\Anaconda\condabin;D:\Programs\ProgramFile\Python\Lib\site-packages\pip;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;D:\Programs\ProgramFile\Cmake\bin;D:\Programs\ProgramFile\Kotlin\kotlinc\bin;D:\Programs\ProgramFile\Gradle\gradle-7.4\bin;%Kotlin_Home16%\bin;D:\Programs\ProgramFile\Kotlin\jdk-16.0.2\bin;C:\Users\reedb\.cargo\bin;C:\Users\reedb\scoop\shims;C:\Users\reedb\AppData\Local\Microsoft\WindowsApps;D:\Programs\Aplikasi\VisualStudioCode\Microsoft VS Code\bin;C:\Users\reedb\AppData\Local\GitHubDesktop\bin;D:\Programs\Aplikasi\Pycharm\PyCharm Community Edition 2021.3.2\bin;;D:\Programs\ProgramFile\IntelliJIDEA\IntelliJ IDEA Community Edition 2021.3.2\bin;;.
+java.vm.info = mixed mode, sharing
+java.vendor = Oracle Corporation
+java.vm.version = 16.0.2+7-67
+sun.io.unicode.encoding = UnicodeLittle
+java.class.version = 60.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

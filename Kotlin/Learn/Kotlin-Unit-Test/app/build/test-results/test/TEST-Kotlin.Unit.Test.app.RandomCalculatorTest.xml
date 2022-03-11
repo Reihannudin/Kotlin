@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kotlin.Unit.Test.app.RandomCalculatorTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-03-10T15:32:26" hostname="DESKTOP-IKMJTG9" time="0.337">
+  <properties/>
+  <testcase name="Test calculator with random parameters ke 1 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.028"/>
+  <testcase name="Test calculator with random parameters ke 2 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.012"/>
+  <testcase name="Test calculator with random parameters ke 3 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.008"/>
+  <testcase name="Test calculator with random parameters ke 4 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.013"/>
+  <testcase name="Test calculator with random parameters ke 5 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.005"/>
+  <testcase name="Test calculator with random parameters ke 6 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.001"/>
+  <testcase name="Test calculator with random parameters ke 7 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.001"/>
+  <testcase name="Test calculator with random parameters ke 8 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.001"/>
+  <testcase name="Test calculator with random parameters ke 9 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.004"/>
+  <testcase name="Test calculator with random parameters ke 10 dari 10" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.006"/>
+  <testcase name="testRandom(Random)" classname="Kotlin.Unit.Test.app.RandomCalculatorTest" time="0.067"/>
+  <system-out><![CDATA[beforeEach
+first: 357
+second: 989
+result: 1346
+beforeEach
+first: 40
+second: 926
+result: 966
+beforeEach
+first: 885
+second: 898
+result: 1783
+beforeEach
+first: 546
+second: 638
+result: 1184
+beforeEach
+first: 10
+second: 234
+result: 244
+beforeEach
+first: 785
+second: 568
+result: 1353
+beforeEach
+first: 386
+second: 273
+result: 659
+beforeEach
+first: 684
+second: 877
+result: 1561
+beforeEach
+first: 936
+second: 575
+result: 1511
+beforeEach
+first: 357
+second: 670
+result: 1027
+beforeEach
+first: 741
+second: 405
+result: 1146
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

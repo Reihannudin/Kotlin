@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test with InformationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-10T15:32:26" hostname="DESKTOP-IKMJTG9" time="0.02">
+  <properties/>
+  <testcase name="Sample Test" classname="Kotlin.Unit.Test.app.InformationTest" time="0.02"/>
+  <system-out><![CDATA[Sample Test
+[]
+Optional[class Kotlin.Unit.Test.app.InformationTest]
+Optional[public final void Kotlin.Unit.Test.app.InformationTest.sampleTest(org.junit.jupiter.api.TestInfo)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

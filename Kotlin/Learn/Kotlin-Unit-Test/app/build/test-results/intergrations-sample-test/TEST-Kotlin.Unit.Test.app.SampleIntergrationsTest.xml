@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kotlin.Unit.Test.app.SampleIntergrationsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-10T13:19:10" hostname="DESKTOP-IKMJTG9" time="0.044">
+  <properties/>
+  <testcase name="test_sample1()" classname="Kotlin.Unit.Test.app.SampleIntergrationsTest" time="0.036"/>
+  <testcase name="test_sample2()" classname="Kotlin.Unit.Test.app.SampleIntergrationsTest" time="0.007"/>
+  <system-out><![CDATA[Hello, world1
+Hello, world2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

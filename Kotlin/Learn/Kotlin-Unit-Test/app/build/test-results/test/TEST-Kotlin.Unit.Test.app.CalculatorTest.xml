@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test for CalculatorTest" tests="8" skipped="3" failures="0" errors="0" timestamp="2022-03-10T15:32:25" hostname="DESKTOP-IKMJTG9" time="0.146">
+  <properties/>
+  <testcase name="Test for CalculatorTest.subTest" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.04"/>
+  <testcase name="Test for CalculatorTest.sumTest" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.003"/>
+  <testcase name="Test for CalculatorTest.testAssumption" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.067">
+    <skipped/>
+  </testcase>
+  <testcase name="Test for CalculatorTest.testAborted" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.01">
+    <skipped/>
+  </testcase>
+  <testcase name="Test for CalculatorTest.testComingSoon" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Test for function calculator mul(4,2)" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.001"/>
+  <testcase name="Test for function calculator div Success (40,0)" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.009"/>
+  <testcase name="Test for function calculator div Success (40,2)" classname="Kotlin.Unit.Test.app.CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[before all
+Before each test
+Sub result is 35
+after each test
+Before each test
+Sum result is 30
+after each test
+Before each test
+after each test
+Before each test
+after each test
+Before each test
+Multiply result is 8
+after each test
+Before each test
+after each test
+Before each test
+Div result is Success 20
+after each test
+after all
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

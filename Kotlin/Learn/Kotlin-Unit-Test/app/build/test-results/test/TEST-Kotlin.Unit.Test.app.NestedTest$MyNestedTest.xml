@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Kotlin.Unit.Test.app.NestedTest$MyNestedTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-10T15:32:26" hostname="DESKTOP-IKMJTG9" time="0.002">
+  <properties/>
+  <testcase name="testB()" classname="Kotlin.Unit.Test.app.NestedTest$MyNestedTest" time="0.002"/>
+  <system-out><![CDATA[testB
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
